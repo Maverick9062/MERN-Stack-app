@@ -36,4 +36,4 @@ npm run dev
 - Inside Project,go to client by changing directory by vscode
 - Now,Open two Terminals(One for client and another for server)
 - For Client,use [npm start] to run the application in localhost
-- For Server, use [nodemom server.js] to run the server in localhost
+- For Server, use [nodemon server.js] to run the server in localhost
