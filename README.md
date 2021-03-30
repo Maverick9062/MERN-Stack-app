@@ -38,3 +38,8 @@ npm run dev
 - For Client,use [npm start] to run the application in localhost
 - For Server,go to server folder inside client folder by same (cd server)
 - And then use [nodemon server.js] to run the server in localhost
+
+
+## Screenshots of the application 
+![Screenshot (113)](https://user-images.githubusercontent.com/59537068/113046508-cd0d9d00-91bd-11eb-8949-6c8e396ede86.png)
+
