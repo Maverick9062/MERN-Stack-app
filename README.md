@@ -41,5 +41,8 @@ npm run dev
 
 
 ## Screenshots of the application 
-![Screenshot (113)](https://user-images.githubusercontent.com/59537068/113046508-cd0d9d00-91bd-11eb-8949-6c8e396ede86.png)
+- aftering creating account on mongo db atlas create a database named "Deatils"
+- Then click on collections where the database is stored
+- Then
+- ![Screenshot (114)](https://user-images.githubusercontent.com/59537068/113046895-3db4b980-91be-11eb-9449-5f1d05c3ec61.png)
 
