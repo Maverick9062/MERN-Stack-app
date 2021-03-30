@@ -33,6 +33,9 @@ npm run dev
 - Go to Network access,go to 'Add Ip Address'
 - Click on [Allow access from anywhere] and then click 'confirm'
 - Open your Visaul Studio Code on your PC and go to the directory where you have download the project file in it.
+- Create a Folder name "Project" using command "mkdir Project"
+- Create a React app using command "create-react app client"
+- After it is created delete all the files inside it and paste all the files from the github which you have download
 - Inside Project,go to client by changing directory by vscode(cd client)
 - Now,Open two Terminals(One for client and another for server)
 - For Client,use [npm start] to run the application in localhost
@@ -41,7 +44,7 @@ npm run dev
 
 
 ## Screenshots of the application 
-- aftering creating account on mongo db atlas create a database named "Deatils"
+- Aftering creating account on mongo db atlas create a database named "Deatils"
 - Then click on collections where the database is stored
 - Then
 ![Screenshot (114)](https://user-images.githubusercontent.com/59537068/113046895-3db4b980-91be-11eb-9449-5f1d05c3ec61.png)
