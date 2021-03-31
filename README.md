@@ -77,7 +77,7 @@ npm run dev
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/59537068/113048388-1c54cd00-91c0-11eb-83f1-327f62d071ec.png)
 
-# One More Test Cases
+# One More Test Case
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/59537068/113048471-31c9f700-91c0-11eb-8491-3444949121e4.png)
 
