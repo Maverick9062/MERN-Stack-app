@@ -32,10 +32,10 @@ npm run dev
 - And create a database called [Details]
 - Go to Network access,go to 'Add Ip Address'
 - Click on [Allow access from anywhere] and then click 'confirm'
-- Open your Visaul Studio Code on your PC and go to the directory where you have download the project file in it.
+- Open your Visaul Studio Code on your PC and go to the directory where you have downloaded the project file in it.
 - Create a Folder name "Project" using command "mkdir Project"
 - Create a React app using command "create-react app client"
-- After it is created delete all the files inside it and paste all the files from the github which you have download
+- After it is created delete all the files inside it and paste all the files from the github which you have downloaded
 - Inside Project,go to client by changing directory by vscode(cd client)
 - Now,Open two Terminals(One for client and another for server)
 - For Client,use [npm start] to run the application in localhost
