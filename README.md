@@ -44,7 +44,7 @@ npm run dev
 
 
 ## Screenshots of the application 
-- Aftering creating account on mongo db atlas create a database named "Deatils"
+- After creating account on mongo db atlas create a database named "Deatils"
 - Then click on collections where the database is stored
 - Then
 ![Screenshot (114)](https://user-images.githubusercontent.com/59537068/113046895-3db4b980-91be-11eb-9449-5f1d05c3ec61.png)
